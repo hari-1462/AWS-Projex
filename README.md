@@ -32,3 +32,7 @@ STEP 10: Enjoy the game in your own laptop.
 ---------------------------------------------------------------------------------
 
 NOTE: The uploaded files are some the sample files that are in my laptop so if u need the whole package follow the above steps and download it in AMAZON WEB SERVICES console.
+
+**You can also check for your gaming sessions in your AWS console and monitor the current player sessions in the Hosted Region.** 
+
+ANY QUERIES MAIL TO "harishthecool06@gmail.com"
