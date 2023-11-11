@@ -1,5 +1,7 @@
 # AWS-Projex
 
+NOTE: **Kindly check the Screenshots that i have uploaded for reference.**
+
 STEPS TO BUILD A GAME IN AWS-GAMELIFT
 --------------------------------------------------------------------------------
 
