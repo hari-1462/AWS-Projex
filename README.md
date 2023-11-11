@@ -14,7 +14,7 @@ STEP 3: To get started add the game that you need to build in your AWS account.
 STEP 3: Click "Add build".
 
 STEP 4: Create Fleet for your Game.
-          Fleet: A fleet is a grouping of one or more instances (virtual machines)                    that work together to host game server processes.
+          A fleet is a grouping of one or more instances (virtual machines)                    that work together to host game server processes.
                  Each fleet is associated with a particular build of your game       
                  server code. A build represents the version of your game server                      that you want to deploy.
 
