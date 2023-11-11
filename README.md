@@ -29,4 +29,4 @@ STEP 9: Copy that token and place it in the gaming console to start the game.
 STEP 10: Enjoy the game in your own laptop.
 ---------------------------------------------------------------------------------
 
-NOTE: The uploadedd files are some the sample files that are in my laptop so if u need the whole package follow the above steps and download it in AMAZON WEB SERVICES console.
+NOTE: The uploaded files are some the sample files that are in my laptop so if u need the whole package follow the above steps and download it in AMAZON WEB SERVICES console.
